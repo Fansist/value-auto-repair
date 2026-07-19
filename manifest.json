@@ -1,0 +1,16 @@
+{
+  "name": "SD Site Forge — San Diego Local Business Websites",
+  "short_name": "SD Site Forge",
+  "description": "42 custom-designed websites for San Diego local businesses",
+  "start_url": "/value-auto-repair/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#ff5a1f",
+  "icons": [
+    {
+      "src": "/value-auto-repair/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
